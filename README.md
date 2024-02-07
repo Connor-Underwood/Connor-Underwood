@@ -19,7 +19,7 @@ const connor = {
                         teaching_assistant: "Latinity",
                         intern: "Amazon Whole Foods"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am creating facial and bodily detection software to evaluate the form of gym exercises"
 }
 ```
 
