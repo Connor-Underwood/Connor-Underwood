@@ -1,5 +1,5 @@
 <h2> Hi, I'm Connor Underwood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="./gifs/lightshutter.gif" width="230">
+<img align='right' src="./gifs/lightshutter.gif" width="200">
 <p><em>Incoming E-Commerce Data Analytics Intern at <a href="https://www.wholefoodsmarket.com/">Amazon Whole Foods</a><img src="./images/wholefoods.png" width="30"></br>
 
 
