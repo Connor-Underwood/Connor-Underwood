@@ -15,11 +15,11 @@ const connor = {
   code: [Python, Java, Javascript, C++, C, SQL],
   tools: [PySpark, React, React-Native, OpenCV, ],
   communities: {
-        researcher: "Project oCEANIC & City of Lafayette Data Automation Project",
-        teaching_assistant: "Latinity",
-        intern: "Amazon Whole Foods"
+    researcher: "Project oCEANIC & City of Lafayette Data Automation Project",
+    teaching_assistant: "Latinity",
+    intern: "Amazon Whole Foods"
                       },
-        challenge: "I am creating facial and bodily detection software to evaluate the form of gym exercises"
+    challenge: "I am creating facial and bodily detection software to evaluate the form of gym exercises"
 }
 ```
 
