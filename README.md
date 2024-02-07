@@ -11,7 +11,7 @@
 
 ```javascript
 const connor = {
-  source: [Chicago, IL]
+  source: [Chicago, IL],
   code: [Python, Java, Javascript, C++, C, SQL],
   tools: [PySpark, React, React-Native, OpenCV, ],
   communities: {
