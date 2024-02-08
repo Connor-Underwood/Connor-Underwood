@@ -14,7 +14,7 @@
 const connor = {
   source: [Chicago, IL],
   code: [Python, Java, Javascript, C++, C, SQL],
-  tools: [PySpark, React, React-Native, OpenCV, ],
+  tools: [PySpark, React, React-Native, OpenCV],
   communities: {
     researcher: "Project oCEANIC/Lafayette Data Automation Project",
     project_manager: "Finish Line Dynamic Order Routing Model",
