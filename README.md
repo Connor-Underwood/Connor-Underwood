@@ -1,6 +1,6 @@
 <h2> Hi, I'm Connor Underwood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="./images/connor_study.jpg" width="200" style="position:relative; top:-20px;">
-<p><em>Data Analytics Intern at <a href="https://www.wholefoodsmarket.com/">Amazon Whole Foods</a><img src="./images/wholefoods.png" width="30"></br>
+<p><em>Data Analytics Intern at <a href="https://www.wholefoodsmarket.com/">Whole Foods Market + Amazon</a><img src="./images/wholefoods.png" width="30"></br>
 
 
 </em></p>
@@ -14,13 +14,12 @@
 const connor = {
   source: [Chicago, IL],
   code: [Python, Java, Javascript, C++, C, SQL],
-  tools: [PySpark, React, React-Native, OpenCV],
+  tools: [PySpark, ReactJS, NodeJS, Numpy, PyTorch, Tensorflow],
   communities: {
-    researcher: "Project oCEANIC/Lafayette Data Automation Project",
-    project_manager: "Finish Line Dynamic Order Routing Model",
-    internship: "Amazon Whole Foods"
+    researcher: "Project oCEANIC & Lafayette Data Automation Project",
+    internships: "Finish Line, Whole Foods Market + Amazon, Wabash National"
   },
-  challenge: "I am creating facial and bodily detection software to evaluate the form of gym exercises"
+  challenges: "I created a fully connected feed forward Neural Network built from scatch to recognize hand-written digits!"
 }
 ```
 
