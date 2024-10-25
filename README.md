@@ -13,13 +13,13 @@
 ```javascript
 const connor = {
   source: [Chicago, IL],
-  code: [Python, Java, Javascript, C++, C, SQL],
-  tools: [PySpark, ReactJS, NodeJS, Numpy, PyTorch, Tensorflow],
+  code: [Golang, Java, Typescript, Python, SQL],
+  tools: [Gorilla, Springboot, PySpark, NextJS, Torch/TFlow],
   communities: {
-    researcher: "Project oCEANIC & Lafayette Data Automation Project",
-    internships: "Finish Line, Whole Foods Market + Amazon, Wabash National"
+    researcher: "Project oCEANIC & Lafayette Housing Research",
+    internships: "Amazon + Whole Foods Market, JD Finish Line, Purdue University, Wabash National"
   },
-  challenges: "I created a fully connected feed forward Neural Network built from scatch to recognize hand-written digits!"
+  challenges: "I built a Neural Network from scratch"
 }
 ```
 
