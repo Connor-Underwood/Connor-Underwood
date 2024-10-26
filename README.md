@@ -9,7 +9,7 @@
 [![GitHub Connor](https://img.shields.io/github/followers/Connor-Underwood?label=follow&style=social)](https://github.com/Connor-Underwood)
 
 
-### <img src="./gifs/laptopscroll.gif" width="30"> A little more about me...  
+### A little more about me...  
 ```javascript
 const connor = {
   source: [Chicago, IL],
