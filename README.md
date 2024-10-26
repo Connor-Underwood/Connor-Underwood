@@ -18,13 +18,13 @@ const connor = {
 ```
 I'm Connor! I am a Computer Science & Data Science Double Major at Purdue University with a minor in Finance. My major concentrations are focused in Software Engineering and Machine Intelligence!
 
-- 👨‍🏫 I am an International Computer Science Researcher with <a href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
+- 👨‍🏫 I am an International Computer Science Researcher with <a target="_blank" href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
 
-- 👨‍💻 Ex Data Science Intern at <a href="https://www.wholefoodsmarket.com/">Amazon + Whole Foods</a>, Ex Data Science Intern at <a href = "https://www.finishline.com/">Finish Line</a>
+- 👨‍💻 Ex Data Science Intern at <a target="_blank" href="https://www.wholefoodsmarket.com/">Amazon + Whole Foods</a>, Ex Data Science Intern at <a target="_blank" href = "https://www.finishline.com/">Finish Line</a>
 
-- 🧠 Project Management Intern at <a href="https://onewabash.com/">Wabash National through a partnership with <a href="https://datamine.purdue.edu/"> The Data Mine
+- 🧠 Project Management Intern at <a target="_blank" href="https://onewabash.com/">Wabash National through a partnership with <a target="_blank" href="https://datamine.purdue.edu/"> The Data Mine
 
-- 🚀 Researcher at <a href="https://projectoceanic.substack.com/">Project oCEANIC
+- 🚀 Researcher at <a target="_blank" href="https://projectoceanic.substack.com/">Project oCEANIC
 
 - 👥 Undergraduate Presenter at the National Conference for Undergraduate Research in Long Beach, CA and at ISQOLS in Rotterdam, The Netherlands
 
