@@ -17,6 +17,15 @@ const connor = {
   tools: [Gorilla, Springboot, PySpark, NextJS, Torch/TFlow],
 }
 ```
+I'm Cy! I am a CS/DS Double Major at Purdue University with concentrations in Machine Intelligence, Software Engineering, and Statistics!
+
+- 👨‍🏫 I am an International Computer Science Researcher with <a href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
+
+- 👨‍💻 SWE Intern at <a href="https://www.dometicgroup.com/en-us">Dometic Group</a>, Ex-DS Intern at <a href = "https://safe-families.org/">Safe Families for Children</a>
+
+- 🚀 Researcher at the Google x Purdue TensorFlow Model Garden, focusing on ONNX deep-learning conversions
+
+- 👥 Undergraduate Presenter at the National Conference for Undergraduate Research in Long Beach, CA and at ISQOLS in Rotterdam, The Netherlands
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to reach out!</b> :)</em>
 
