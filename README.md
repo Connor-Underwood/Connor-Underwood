@@ -15,11 +15,6 @@ const connor = {
   source: [Chicago, IL],
   code: [Golang, Java, Typescript, Python, SQL],
   tools: [Gorilla, Springboot, PySpark, NextJS, Torch/TFlow],
-  communities: {
-    researcher: "Project oCEANIC & Lafayette Housing Research",
-    internships: "Amazon + Whole Foods Market, JD Finish Line, Purdue University, Wabash National"
-  },
-  challenges: "I built a Neural Network from scratch"
 }
 ```
 
