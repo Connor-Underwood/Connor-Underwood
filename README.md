@@ -18,13 +18,17 @@ const connor = {
 ```
 I'm Connor! I am a Computer Science & Data Science Double Major at Purdue University with a minor in Finance. My major concentrations are focused in Software Engineering and Machine Intelligence!
 
-- 👨‍🏫 I am an International Computer Science Researcher with <a target="_blank" href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
+- I currently work at Google as a SWE intern for the fall.
 
-- 👨‍💻 Ex Data Science Intern at <a target="_blank" href="https://www.wholefoodsmarket.com/">Amazon + Whole Foods</a>, Ex Data Science Intern at <a target="_blank" href = "https://www.finishline.com/">Finish Line</a>
+- I worked at Microsoft as a Data Science intern for the summer doing agentic AI research.
 
-- 🧠 Project Management Intern at <a target="_blank" href="https://onewabash.com/">Wabash National through a partnership with <a target="_blank" href="https://datamine.purdue.edu/"> The Data Mine
+- Ex Data Science Intern at <a target="_blank" href="https://www.wholefoodsmarket.com/">Amazon + Whole Foods</a>, Ex Data Science Intern at <a target="_blank" href = "https://www.finishline.com/">Finish Line</a>
 
-- 🚀 Researcher at <a target="_blank" href="https://projectoceanic.substack.com/">Project oCEANIC
+- I am an International Computer Science Researcher with <a target="_blank" href="https://jasonwarephd.com/">Dr. Jason Ware</a> and the city of Lafayette, IN
+
+- Project Management Intern at <a target="_blank" href="https://onewabash.com/">Wabash National through a partnership with <a target="_blank" href="https://datamine.purdue.edu/"> The Data Mine
+
+- Researcher at <a target="_blank" href="https://projectoceanic.substack.com/">Project oCEANIC
 
 - 👥 Undergraduate Presenter at the National Conference for Undergraduate Research in Long Beach, CA and at ISQOLS in Rotterdam, The Netherlands
 
