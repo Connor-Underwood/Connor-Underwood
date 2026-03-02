@@ -18,6 +18,8 @@ const connor = {
 ```
 I'm Connor! I am an incoming Engineer at Google and I make social media content!
 
+- Incoming Software Engineer in San Francisco @ Google Search
+  
 - I interned at Google as a SWE intern for Fall 2025.
 
 - Previous Data Science intern at Microsoft as a for summer 2025 doing agentic AI research.
