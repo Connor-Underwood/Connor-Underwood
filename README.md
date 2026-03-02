@@ -12,8 +12,7 @@
 ```javascript
 const connor = {
   source: [Chicago, IL],
-  code: [Golang, Java, Typescript, Python, SQL],
-  tools: [Gorilla, Springboot, PySpark, NextJS, Torch/TFlow],
+  code: [Python, C++, Java, Typescript, Golang, SQL]
 }
 ```
 I'm Connor! I am an incoming Engineer at Google and I make social media content!
